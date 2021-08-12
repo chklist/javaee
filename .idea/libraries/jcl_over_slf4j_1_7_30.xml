@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="jcl-over-slf4j-1.7.30">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/jcl-over-slf4j-1.7.30.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/jul-to-slf4j-1.7.30.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
